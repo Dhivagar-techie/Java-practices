@@ -1,8 +1,9 @@
 public class Main {
   public static void main(String a[] ) {
-    int num=12;
+    double num=12.98;
     int num1=23;
-    int add=num+num1;
-    System.out.println(add);
+    int num2= (int) num ;
+    int num3= (byte) num1;
+    System.out.println(num3);
   }
 }
