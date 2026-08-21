@@ -27,7 +27,7 @@ public class Main {
         
         System.out.println("First digit = " + firstDigit);
         System.out.println("Last digit = " + lastDigit);
-        System.out.println("sum: "+sum);
+        System.out.println("sum of digits : "+sum);
 
     
         }
