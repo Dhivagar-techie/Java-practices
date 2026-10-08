@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class HashList {
+public class HashMap1 {
     public static void main(String[] args) {
 
         HashMap<String, String> Cities = new HashMap<String, String>();
@@ -8,7 +8,15 @@ public class HashList {
         Cities.put("hell", "heven");
         Cities.put("hel", "hevn");
         Cities.put("hel5l", "hev9en");
-        System.out.println(Cities);
+        
+
+        for (String i:Cities.keySet()){
+            System.out.println(i+" "+Cities.get(i));
+        }
+       
+
+ System.out.println(Cities.get("heven"));
+
     }
 
 }
