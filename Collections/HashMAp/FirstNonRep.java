@@ -1,4 +1,4 @@
-import java.util.*;
+  import java.util.*;
 public class FirstNonRep {
     public static void main(String[]args){
 
@@ -13,9 +13,6 @@ public class FirstNonRep {
                 System.out.println(i+" this is first non repeter");
                 break;
             }
-
-            
-            
         }
         
     }
