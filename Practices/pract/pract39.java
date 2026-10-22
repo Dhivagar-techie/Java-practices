@@ -12,7 +12,7 @@ public class pract39 {
 
         int temp = num;
 
-        while (temp > 9) {
+        while (temp>0) {
 
             int sum = 0;
 
