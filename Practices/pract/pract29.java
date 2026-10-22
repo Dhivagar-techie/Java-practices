@@ -1,3 +1,4 @@
+//Check whether a number is a strong number
 
 
 import java.util.Scanner;
@@ -6,34 +7,35 @@ public class pract29 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-        System.out.println("enter the number : ");
+        System.out.print("enter the number: ");
         int num=sc.nextInt();
-        System.out.println("enter the target number : ");
-        int targ=sc.nextInt();
 
         int temp=num;
 
-        int count=0;
-        
-        while (temp>0) {
+        int sum=0;
 
-            int digit=temp%10;
-             
-            if(digit%2==0){
-                even++;
+       while (temp>0) {
+        int sav=temp%10;
 
-            }
-            else{
-      odd++;
-            }
+        int fact=1;
 
-            temp=temp/10;
-            
+        for(int i=sav;i>=1;i--){
+            fact=fact*i;
         }
 
-        System.out.println("odd of digit: "+odd);
-        System.out.println("even of digit: "+even);
+       sum=sum+fact;
+
+        temp=temp/10;
+
+        
+       }
+
+        if(num==sum){
+            System.out.println(num+" it is strong number");
+        }
+        else{
+            System.out.println("it is not");
+        }
     }
     
 }
-
