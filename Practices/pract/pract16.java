@@ -1,3 +1,5 @@
+//Find all perfect squares in a given range.
+
 import java.util.Scanner;
 
 public class pract16 {

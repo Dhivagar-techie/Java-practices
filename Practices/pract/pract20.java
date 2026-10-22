@@ -1,3 +1,4 @@
+//Print all prime numbers from 1 to N.
 import java.util.Scanner;
 
 public class pract20 {

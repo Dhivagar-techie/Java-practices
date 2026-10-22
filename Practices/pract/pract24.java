@@ -1,3 +1,4 @@
+//Reverse a number.
 import java.util.Scanner;
 
 public class pract24 {

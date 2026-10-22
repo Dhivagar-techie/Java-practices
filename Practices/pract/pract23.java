@@ -1,3 +1,4 @@
+//Find the sum of digits.
 import java.util.Scanner;
 
 public class pract23 {

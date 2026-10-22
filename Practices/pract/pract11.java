@@ -1,3 +1,4 @@
+//Find the largest factor excluding the number itself.
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;

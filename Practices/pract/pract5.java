@@ -1,4 +1,6 @@
+//Swap two numbers without a third variable
 import java.util.Scanner;
+
 
 public class pract1 {
     

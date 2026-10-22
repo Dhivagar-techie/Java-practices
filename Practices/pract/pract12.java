@@ -1,3 +1,4 @@
+//Check whether a number is divisible by each digit.
 import java.util.Scanner;
 
 public class pract12 {

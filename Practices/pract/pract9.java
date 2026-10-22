@@ -1,3 +1,4 @@
+//Count the factors of a number.
 import java.util.Scanner;
 
 public class pract9 {

@@ -1,3 +1,4 @@
+//Find whether a number is positive, negative, or zero.
 import java.util.Scanner;
 
 public class pract1 {

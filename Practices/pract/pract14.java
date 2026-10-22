@@ -1,6 +1,7 @@
+//Find common factors of two numbers.
 import java.util.Scanner;
 
-public class pract1 {
+public class pract14 {
     
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

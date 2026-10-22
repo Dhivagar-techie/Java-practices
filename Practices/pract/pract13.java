@@ -1,6 +1,7 @@
+//Find all numbers between 1 and N divisible by K.
 import java.util.Scanner;
 
-public class pract1 {
+public class pract13 {
     
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

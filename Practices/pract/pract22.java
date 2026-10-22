@@ -1,3 +1,4 @@
+//Count the digits in a number.
 import java.util.Scanner;
 
 public class pract22 {
@@ -17,6 +18,6 @@ public class pract22 {
             
         }
 
-        System.out.println("count:"+count);
+        System.out.println("count: "+count);
     }
 }

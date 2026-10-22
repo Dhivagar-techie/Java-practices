@@ -1,3 +1,4 @@
+// Check whether two numbers are coprime.
 import java.util.Scanner;
 
 public class pract17 {

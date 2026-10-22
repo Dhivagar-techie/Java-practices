@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//Find the largest of three numbers.import java.util.Scanner;
 
 public class pract1 {
     

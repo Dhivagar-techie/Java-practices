@@ -1,3 +1,4 @@
+//Check whether a year is a leap year.
 import java.util.Scanner;
 
 public class pract6 {

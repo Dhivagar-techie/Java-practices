@@ -1,4 +1,4 @@
-
+//Find the Lcm of two numbers.
 import java.util.Scanner;
 
 public class pract15 {

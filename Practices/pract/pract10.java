@@ -1,3 +1,4 @@
+//Find the product of all factors.
 import java.util.Scanner;
 
 public class pract10 {

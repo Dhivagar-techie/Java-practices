@@ -1,3 +1,4 @@
+//Check whether a number is divisible by 5 and 11.
 import java.util.Scanner;
 
 public class pract7 {
@@ -9,7 +10,7 @@ public class pract7 {
         int num=sc.nextInt();
     
 
-        if(num%5==0 && num%7==0){
+        if(num%5==0 && num%11==0){
             System.out.println("it is divisble");
         }
         else{
